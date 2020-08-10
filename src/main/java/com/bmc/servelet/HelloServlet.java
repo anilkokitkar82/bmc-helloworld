@@ -1,4 +1,4 @@
-package net.codejava.javaee;
+package com.bmc.servelet;
 
 import java.io.IOException;
 
@@ -31,7 +31,7 @@ public class HelloServlet extends HttpServlet {
 		String firstName = request.getParameter("fn");
 	    String lastName = request.getParameter("ln");
 	 
-	    response.getWriter().append("Full Name: " + firstName + " " + lastName);
+	    response.getWriter().append("Welcome: " + firstName + " " + lastName);
 		
 	    response.getWriter().close();
 	}

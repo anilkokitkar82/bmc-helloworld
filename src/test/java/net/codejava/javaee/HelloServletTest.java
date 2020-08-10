@@ -15,7 +15,7 @@ import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import net.codejava.javaee.HelloServlet;
+import com.bmc.servelet.HelloServlet;
  
 public class HelloServletTest {
  
@@ -44,7 +44,7 @@ public class HelloServletTest {
         HelloServlet myServlet =new HelloServlet();
         myServlet.doPost(request, response);
         String result = sw.getBuffer().toString().trim();
-        assertEquals(result, new String("Full Name: Poonam Maniar"));
+        assertEquals(result, new String("Welcome: Poonam Maniar"));
  
     }
 }
