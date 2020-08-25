@@ -8,7 +8,7 @@
 <title>Hello From Dipak Patil !!!</title>
 </head>
 <body>
-	<h1>Hello From Dipak Patil! Welcome to BMC</h1>
+	<h1>Hello From Dipak Patil! Welcome to BMC - updated by Anil for Demo</h1>
 	<form action="helloServlet" method="POST">
 		<b>Enter your name : firstname: </b><input type="text" name="fn" size="20"> <b>lastname:</b> <input type="text" name="ln" size="20">
 		<input type="submit" value="Submit" />
