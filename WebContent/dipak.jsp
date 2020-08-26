@@ -5,10 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello From Dipak Patil !!! Welcome to BMC</title>
+<title>Hello From Dipak Patil !!!</title>
 </head>
 <body>
-	<h1>Hello From Dipak Patil! Welcome to BMC - updated by Dipak for Demo</h1>
+	<h1>Hello From Dipak Patil! Welcome to BMC - updated by Dipak for Demo on 26th</h1>
 	<form action="helloServlet" method="POST">
 		<b>Enter your name : firstname: </b><input type="text" name="fn" size="20"> <b>lastname:</b> <input type="text" name="ln" size="20">
 		<input type="submit" value="Submit" />
