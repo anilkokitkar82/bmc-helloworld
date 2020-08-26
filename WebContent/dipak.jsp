@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello From Dipak Patil !!!</title>
+<title>Hello From Dipak Patil !!! Welcome to BMC</title>
 </head>
 <body>
 	<h1>Hello From Dipak Patil! Welcome to BMC - updated by Dipak for Demo</h1>
