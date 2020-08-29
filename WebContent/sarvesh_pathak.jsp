@@ -5,10 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello From BMC Software !!!</title>
+<title>Hello From Sarvesh Pathak !!!</title>
 </head>
 <body>
-	<h1>Hello From Anil Kokitkar! - Welcome to BMC Software</h1>
+	<h1>Hello From Sarvesh Pathak! - Welcome to BMC Software</h1>
 	<form action="helloServlet" method="POST">
 		<b>Enter your name : firstname: </b><input type="text" name="fn" size="20"> <b>lastname:</b> <input type="text" name="ln" size="20">
 		<input type="submit" value="Submit" />
